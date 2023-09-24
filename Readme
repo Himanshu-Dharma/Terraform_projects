@@ -1,5 +1,4 @@
-ABOUT THIS REPO
 
-This repo consists of projects done by me(Himanshu)
-Starting from basics to advance
-Target is to showcase and experiment with CI/CD and data engineering projects using terraform
+# TERRAFORM PROJECTS
+
+This repo consists of mutiple projects done using Terraform and one of the cloud providers either AWS/Azure/GCP. Projects carry from begineer to advance level thus covering all the leraned concepts.
